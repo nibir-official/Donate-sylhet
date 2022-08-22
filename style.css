@@ -35,3 +35,67 @@ body{
     margin-top: 5px;
 }
 /* Donate Today */
+.donate-now{
+    margin-top: 200px;
+    background-color: white;
+    text-align: center;
+    height: 600px;
+    width: 800px;
+    margin-left: 250px;
+}
+.donate-heading h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.donate-heading p{
+    font-size: 18px bolder;
+}
+
+.taka{
+    display: flex;
+    margin-top: 80px;
+}
+#done{
+    color: #FF5959;
+    background-color: #f5e6e6;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.taka h2{
+    color: gray;
+    font-size: 30px;
+    padding: 35px;
+    margin: 5px;
+}
+.amount input{
+    width: 765px;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border-top: white;
+    border-right: white;
+    border-left: white;
+    border-bottom: 2px solid #DADADA;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.amount button{
+    width: 160px;
+    height: 56px;
+    color: white;
+    background-color: #FF5959;
+    border: 2px;
+    border-radius: 8px;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 20px;
+   
+    
+}
+.amount a{
+    text-decoration: none;
+    color: white;
+}
+/* Our Donate Plan */
